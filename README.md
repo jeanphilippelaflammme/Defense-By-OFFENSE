@@ -24,4 +24,4 @@ Code généré par l'IA. Examinez et utilisez soigneusement. Plus d'informations
     <td>hacker</td>
   </tr>
 </table>
-Ce code HTML crée un tableau avec deux colonnes et deux lignes. La première ligne du tableau contient les en-têtes de colonne “Prénom” et “Nom”. Les deux lignes suivantes contiennent les données “John Doe” et “Jane Smith”.
+Ce code HTML crée un tableau avec deux colonnes et deux lignes. La première ligne du tableau contient les en-têtes de colonne “Prénom” et “Nom”. Les deux lignes suivantes contiennent les données “White Hat” et “Hacker”.
